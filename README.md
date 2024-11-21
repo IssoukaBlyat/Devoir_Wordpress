@@ -1,2 +1,3 @@
-Identifiant: Issoukanigou
-Mot de passe: J'adore ma vie
+Identifiant: <strong>Issoukanigou</strong>
+<br />
+Mot de passe: <strong>J'adore ma vie</strong>
